@@ -1,0 +1,5 @@
+primera linea.
+
+segunda linea.
+
+fin del primer documento en git.
