@@ -1,0 +1,10 @@
+estoy adicionando lineas
+antes de hacer el primer commit.
+
+primera modificacion.
+
+cambios adicionales
+
+ahora probar comando checkout
+
+Trabajando en cabecera
